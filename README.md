@@ -1,5 +1,5 @@
 ## GANs
-Simple Pytorch implementations of Generative Adversarial Network (GAN) varieties presented in research papers.
+Simple Pytorch implementations of most used Generative Adversarial Network (GAN) varieties.
 
 ## Dependencies
 * [Python 3.5+](https://www.continuum.io/downloads)

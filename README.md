@@ -5,7 +5,7 @@ Simple Pytorch implementations of Generative Adversarial Network (GAN) varieties
 * [Python 3.5+](https://www.continuum.io/downloads)
 * [PyTorch 0.4.0](http://pytorch.org/)
 
-## Table Content
+## Table of Contents
 * [Vanilla GAN](https://arxiv.org/pdf/1406.2661.pdf)
 * [Conditonal GAN](https://arxiv.org/pdf/1411.1784.pdf)
 * Improved Conditonal GAN

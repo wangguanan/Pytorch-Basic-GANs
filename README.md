@@ -2,7 +2,7 @@
 Simple Pytorch implementations of most used Generative Adversarial Network (GAN) varieties.
 
 ## Dependencies
-* [Python 2.7](https://www.continuum.io/downloads)
+* [Anaconda(Python 2.7)](https://www.anaconda.com/download/)
 * [PyTorch 0.4.0](http://pytorch.org/)
 
 ## Table of Contents

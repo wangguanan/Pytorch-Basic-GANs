@@ -2,7 +2,7 @@
 Simple Pytorch implementations of most used Generative Adversarial Network (GAN) varieties.
 
 ## GPU or CPU
-Support both GPU and CPU
+Support both GPU and CPU.
 
 ## Dependencies
 * [Anaconda (Python 2.7)](https://www.anaconda.com/download/)

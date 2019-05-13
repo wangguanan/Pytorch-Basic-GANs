@@ -17,6 +17,7 @@ Support both GPU and CPU.
 * [Improved Training of Wasserstein GAN (WGAN-GP)](https://arxiv.org/pdf/1704.00028.pdf)
 
 ## Experiment Results
+
 ### Vanilla GAN (GAN)
 
 | epoch 0 | epoch 10 | epoch 20 | epoch 30 | epoch 40 | 
@@ -24,6 +25,26 @@ Support both GPU and CPU.
 | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/vanilla_gan/0.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/vanilla_gan/10.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/vanilla_gan/20.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/vanilla_gan/30.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/vanilla_gan/40.png?raw=true) |
 | epoch 50 | epoch 100 |  epoch 150 |  epoch 199 | - 
 | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/vanilla_gan/50.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/vanilla_gan/100.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/vanilla_gan/150.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/vanilla_gan/199.png?raw=true) | - |
+
+---
+
+### Conditional GAN (cGAN)
+
+| epoch 0 | epoch 10 | epoch 20 | epoch 30 | epoch 40 | 
+| :---:  | :---: | :---: | :---: | :---: | 
+| ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/cGAN/0.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/cGAN/10.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/cGAN/20.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/cGAN/30.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/cGAN/40.png?raw=true) |
+| epoch 50 | epoch 100 |  epoch 150 |  epoch 199 | - 
+| ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/cGAN/50.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/cGAN/100.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/cGAN/150.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/cGAN/199.png?raw=true) | - |
+
+---
+
+### Improved Conditional GAN (Improved cGAN)
+
+| epoch 0 | epoch 10 | epoch 20 | epoch 30 | epoch 40 | 
+| :---:  | :---: | :---: | :---: | :---: | 
+| ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/improved_cgan/0.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/improved_cgan/10.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/improved_cgan/20.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/improved_cgan/30.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/improved_cgan/40.png?raw=true) |
+| epoch 50 | epoch 100 |  epoch 150 |  epoch 199 | - 
+| ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/improved_cgan/50.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/improved_cgan/100.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/improved_cgan/150.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/improved_cgan/199.png?raw=true) | - |
 
 
 ## Acknowledgement

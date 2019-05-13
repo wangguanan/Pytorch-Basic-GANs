@@ -47,6 +47,33 @@ Support both GPU and CPU.
 | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/improved_cgan/50.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/improved_cgan/100.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/improved_cgan/150.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/improved_cgan/199.png?raw=true) | - |
 
 
+### Deep Convolutional GAN (DCGAN)
+
+| epoch 0 | epoch 10 | epoch 20 | epoch 30 | epoch 40 | 
+| :---:  | :---: | :---: | :---: | :---: | 
+| ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/dcgan/0.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/dcgan/10.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/dcgan/20.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/dcgan/30.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/dcgan/40.png?raw=true) |
+| epoch 50 | epoch 60 |  epoch 70 |  epoch 80 |  epoch 90 | 
+| ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/dcgan/50.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/dcgan/60.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/dcgan/70.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/dcgan/80.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/dcgan/90.png?raw=true) |
+
+
+### Wasserstein GAN (WGAN)
+
+| epoch 0 | epoch 10 | epoch 20 | epoch 30 | epoch 40 | 
+| :---:  | :---: | :---: | :---: | :---: | 
+| ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan/0.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan/10.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan/20.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan/30.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan/40.png?raw=true) |
+| epoch 50 | epoch 100 |  epoch 150 |  epoch 199 |  - | 
+| ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan/50.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan/100.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan/150.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan/199.png?raw=true) | - |
+
+
+### Wasserstein GAN with Gradient Plenty (WGAN-GP)
+
+| epoch 0 | epoch 10 | epoch 20 | epoch 30 | epoch 40 | 
+| :---:  | :---: | :---: | :---: | :---: | 
+| ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan-gp/0.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan-gp/10.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan-gp/20.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan-gp/30.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan-gp/40.png?raw=true) |
+| epoch 50 | epoch 100 |  epoch 150 |  epoch 199 |  - | 
+| ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan-gp/50.png?raw=true) | ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan-gp/100.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan-gp/150.png?raw=true) |  ![xxx](https://github.com/wangguanan/Pytorch-Basic-GANs/blob/master/images/wgan-gp/199.png?raw=true) | - |
+
+
 ## Acknowledgement
 This project is going with the [GAN Theory and Practice](https://study.163.com/course/courseLearn.htm?courseId=1006498024&share=2&shareId=400000000681046#/learn/live?lessonId=1054160393&courseId=1006498024) part of the [Deep Learning Course: from Algorithm to Practice](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000681046&courseId=1006498024&_trace_c_p_k2_=d197343763ee421eae96c4cdb1b129cb).
 
